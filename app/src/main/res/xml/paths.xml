@@ -1,0 +1,17 @@
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path name="external_files" path="."/>
+</paths>
+
+
+<!--<paths>-->
+
+    <!--<files-path-->
+        <!--name="files"-->
+        <!--path="Exception/" />-->
+
+<!--</paths>-->
+
+<!--<paths>-->
+    <!--<files-path name="shared_files" path=""/>-->
+    <!--<external-path name="shared_files" path="" />-->
+<!--</paths>-->

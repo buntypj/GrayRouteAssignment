@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="ftr_regular">Sky_Reg.ttf</string>
+    <string name="ftr_normal">Sky_Reg.ttf</string>
+    <string name="ftr_bold">Sky_Med.ttf</string>
+</resources>

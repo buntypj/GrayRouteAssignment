@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <item name="bg_white" type="color">#FFFFFF</item>
+    <item name="listview_background" type="color">#F2003366</item>
+    <item name="bg_grey" type="color">#343A42</item>
+    <color name="trans_black">#99000000</color>
+    <color name="tv_black">#000000</color>
+</resources>
